@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang = "en">
+<head>
+<meta charset = "UTF-8">
+<title>Web Design</title>
+</head>
+<body>
+<h1>Ajali de Veaux-Griffith</h1>
+</body>
+<nav class="menu">
+  <a href="#">One</a>
+  <a href="#">Two</a>
+  <a href="#">Three</a>
+  <a href="#">Final</a>
+</nav>
+<h2>Favorite Foods</h2>
+<ul>
+  <li>Red Bean Xia Long Bao</li>
+  <li>Tres Leches Cake</li>
+  <li>Chocolate Covered Almonds</li>
+  <li>Waffles</li>
+
+  <h2>Achievements</h2>
+  <span>Progress in this course(100%):</span>
+  <progress value="100" max="100"></progress>
+                            <br></br>                                  <span>Progress in this Specialization(20%):</span>
+<progress value="20" max="100"></progress>                           
+  <br></br> 
+  <span>Progress in life goals(35%):</span>
+  <Progress value="35" max="100"></progress>
+  <h2>More About Me</h2>
+  <details>
+    <summary>My Childhood</summary>
+    I grew up in East Oakland, Las Vegas, Seattle and Los Angeles. I lived with my separated parents and my mom loved to travel.
+  </details>
+  <img src="http://www.intro-webdesign.com/images/newlogo.png" alt="Intro To Web Design">
+  <nav>
+    <footer>This page was created by Ajali de Veaux-Griffith & Colleen van Lent. To learn more about web design, <a href="https://intro-webdesign.com/">visit Intro to Web Design.</a>.</footer>
+  </nav>
